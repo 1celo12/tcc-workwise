@@ -1,0 +1,3 @@
+streamlit run your_script.py
+
+streamlit run your_script.py [-- script args]
